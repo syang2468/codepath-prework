@@ -1,14 +1,11 @@
 ## Hello World App
 
 ### App Description
-`TODO://` Prework for codepath, changes the color text once button is clicked
+Prework for codepath, changes the color text once button is clicked
 
 ### App Walk-though
 
-<img src="" width=200><br>
-![ezgif com-resize](https://user-images.githubusercontent.com/56798424/150715961-ba1720fc-9d16-4cfd-91a6-e1fcf0b6f4b7.gif)
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://user-images.githubusercontent.com/56798424/150715961-ba1720fc-9d16-4cfd-91a6-e1fcf0b6f4b7.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
